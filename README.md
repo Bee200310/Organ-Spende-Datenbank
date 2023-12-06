@@ -11,7 +11,7 @@ Projektziel (2-3 Sätze)
 
 Wir wollen ein Organspede Programm/Datenbank zusammenstellen. Wo man nach einen gespendeten organ suchen kann und das dann Anfragen kann. Außerdem wollen wir die funktion haben das sich leute als organspender eintragen können. Diese programm ist für Ärzte, Krankenhäuser und Privatpersonen verwendet werden. 
 
-Muss-Kriterien 
+### Muss-Kriterien 
 
 1.1. Muss einen Lade Screen haben. 
 
@@ -32,8 +32,7 @@ Organs (Welches Organ)gespeichert werden.
 
 1.9. Es Wird Die Entität Verstorbene mit den Attributen(ID,Blutgruppe,Geburtsdatum,Alter,Bezeichnung des Organs)erstellt.
 
-Kann-Kriterien 
-**************
+### Kann-Kriterien 
 
 Z.1.Info page Warum Organspenden so wichtig sind. 
 
